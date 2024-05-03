@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dmitry
 # 👨🏻‍💻 About Me:
 - ⌨️ Skilled in provisioning and managing cloud infrastructure, driving automation, and overseeing the CI/CD pipeline lifecycle.
-- 👀 I like automate everithing and I enjoy learning new things.
+- 👀 I like to automate everything and I enjoy learning new things.
 - 🎓 Continuing Education: Database Designer, AEC, College of Bois-de-Boulogne, Montreal, 2023.
 - 🌱 Looking for new certifications to stay in the loop with the latest tech trends and industry standards.
 - 📫 How to reach me: [4dzhuravlev@gmail.com](mailto:4dzhuravlev@gmail.com)
