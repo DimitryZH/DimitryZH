@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Dmitry
 # 👨🏻‍💻 About Me:
 - ⌨️ Skilled in provisioning and managing cloud infrastructure, driving automation, and overseeing the CI/CD pipeline lifecycle.
-- 👀 I like to automate everything and I enjoy learning new things.
 - 🎓 Continuing Education: Database Designer, AEC, College of Bois-de-Boulogne, Montreal, 2023.
+- 👀 I like to automate everything and I enjoy learning new things.
 - 🌱 Looking for new certifications to stay in the loop with the latest tech trends and industry standards.
 - 📫 How to reach me: [4dzhuravlev@gmail.com](mailto:4dzhuravlev@gmail.com)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitryzh)
 - 💡 Check out [My Website](https://projects.dmitry-web.com/).
 # 🛠 Tech Stack:
 [![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#)
@@ -19,6 +20,7 @@
 [![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#) 
 [![Windows Server Badge](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](#)
+[![Active Directory Badge](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![JSON Badge](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](#) 
 [![YAML Badge](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=YAML&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) 
@@ -30,6 +32,7 @@
 [![Terraform Badge](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](#) 
 [![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](#)
 [![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](#)
+[![Zabbix Badge](https://img.shields.io/badge/Zabbix-EE0000?style=for-the-badge&logo=zabbix&logoColor=white)](#)
 [![ELK Stack Badge](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)](#)
 [![Nginx Badge](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](#) 
 [![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](#) 
@@ -37,6 +40,7 @@
 [![JUnit Badge](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)](#) 
 [![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](#) 
 [![Maven Badge](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](#) 
+[![SonarQube Badge](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![SQL Server Badge](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
 [![Postgres SQL Badge](https://img.shields.io/badge/Postgres_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#) 
@@ -44,6 +48,7 @@
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![Confluence Badge](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)](#)
+[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#)
 
 
 
