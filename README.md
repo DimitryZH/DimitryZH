@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Dmitry
 # 👨🏻‍💻 About Me:
+- 👀 I like to automate everything and I enjoy learning new things.
+- 💻 DevOps | SRE | Production Engineering – experienced in managing large-scale systems and automating infrastructure.
 - ⌨️ Skilled in provisioning and managing cloud infrastructure, driving automation, and overseeing the CI/CD pipeline lifecycle.
+- 🔍 Proficient in monitoring, incident response, and reliability engineering using modern tools and best practices.
 - 🎓 Professional Development: Beyond the Cloud, Certificate, Information and Communications Technology Council (ICTC), 2024.
 - 🎓 Continuing Education: Database Designer, ACS, College of Bois-de-Boulogne, Montreal, 2023.
-- 👀 I like to automate everything and I enjoy learning new things.
-- 🌱 Looking for new certifications to stay in the loop with the latest tech trends and industry standards.
 - 📫 How to reach me: [4dzhuravlev@gmail.com](mailto:4dzhuravlev@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitryzh)
 - 💡 Check out [My Website](https://dmitry-zhuravlev.com/)
@@ -36,6 +37,7 @@
 [![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](#)
 [![Zabbix Badge](https://img.shields.io/badge/Zabbix-EE0000?style=for-the-badge&logo=zabbix&logoColor=white)](#)
 [![ELK Stack Badge](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)](#)
+[![Datadog Badge](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](#)
 [![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#) 
 [![SonarQube Badge](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](#)
 [![Vault Badge](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)](#)
