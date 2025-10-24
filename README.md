@@ -11,8 +11,7 @@
 🎓 Continuing Education: *Database Designer* – ACS, College of Bois-de-Boulogne, Montreal, 2023
 
 📫 How to reach me: [4dzhuravlev@gmail.com](mailto:4dzhuravlev@gmail.com)  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)  
-💡 Check out [My Website](https://your-website.com)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/dmitryzh) 
 
 # 📂 My Project Portfolio
 [**Click here, please!**](https://github.com/DimitryZH/Portfolio-Projects)
