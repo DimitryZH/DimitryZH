@@ -4,9 +4,11 @@ Designing and operating cloud-native and AI infrastructure platforms focused on 
 
 ## Portfolio (Open Source)
 
-Flagship projects focused on platform engineering, SRE-driven systems, secure delivery, and cost-aware infrastructure.  
+Flagship projects focused on platform engineering, SRE-driven systems, AI-assisted operations, secure delivery, and cost-aware infrastructure. 
 
 https://dimitryzh.github.io/cloud-platform-portfolio/
+
+If you find a project useful, consider giving it a ⭐ — it helps others discover the work.
 
 ## Tech Stack (core)
 
